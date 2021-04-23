@@ -1,0 +1,4 @@
+---
+- name: Install scripts to admin users
+  include_role: 
+    name: setenv_admin-scripts
